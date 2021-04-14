@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working [Octágono](https://www.octagono.pt)
+Currently working at [Octágono](https://www.octagono.pt) as a "fullstack developer"
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
