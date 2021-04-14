@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working at [Octágono](https://www.octagono.pt) as a "fullstack developer"
+Currently working at [Octágono](https://www.octagono.pt) in [Figueira da Foz, Portugal](https://pt.wikipedia.org/wiki/Figueira_da_Foz) as a Full-Stack Developer.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
