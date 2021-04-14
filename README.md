@@ -10,9 +10,9 @@ Currently working at [Octágono](https://www.octagono.pt) in [Figueira da Foz, P
 
 #### Improving on
 
-- Advanced vanilla JavaScript
+- Advanced JavaScript
 - SSG
-  - 11ty
+  - [11ty](https://www.11ty.dev/)
 
 <!--
 - 🔭 I’m currently working on ...
