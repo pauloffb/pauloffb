@@ -4,7 +4,7 @@ Currently working at [Octágono](https://www.octagono.pt) in [Figueira da Foz, P
 
 #### Tools and Tech
 
-- stack: `.js`, `.php`, `.html`, `.css`
+- **code stack**: `.js`, `.php`, `.html`, `.css`
 
 
 <!--
