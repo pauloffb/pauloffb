@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 Currently working at [Octágono](https://www.octagono.pt) in [Figueira da Foz, Portugal](https://pt.wikipedia.org/wiki/Figueira_da_Foz) as a Full-Stack Developer.
+
+#### Tools and Tech
+
+- stack: `.js`, `.php`, `.html`, `.css`
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
