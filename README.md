@@ -6,6 +6,7 @@ Currently working at [Octágono](https://www.octagono.pt) in [Figueira da Foz, P
 
 - **code stack**: `.js`, `.php`, `.html`, `.css`
 - **design tools**: [Affinity Designer](https://affinity.serif.com/en-us/designer/), [Affinity Photo](https://affinity.serif.com/en-us/photo/)
+- **cms's, frameworks, etc**: [Grav](https://www.getgrav.org), [Joomla](https://www.joomla.org), [Wordpress](https://www.wordpress.org), [Prestashop](https://www.prestashop.com), [Tailwind CSS](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/)
 
 <!--
 - 🔭 I’m currently working on ...
