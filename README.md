@@ -5,7 +5,7 @@ Currently working at [Octágono](https://www.octagono.pt) in [Figueira da Foz, P
 #### Tools and Tech
 
 - **code stack**: `.js`, `.php`, `.html`, `.css`
-
+- **design tools**: [Affinity Designer](https://affinity.serif.com/en-us/designer/), [Affinity Photo](https://affinity.serif.com/en-us/photo/)
 
 <!--
 - 🔭 I’m currently working on ...
